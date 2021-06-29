@@ -1,33 +1,32 @@
 <p align="center">
 
-[![Dil-se-Dosti](https://telegra.ph/file/5c38e2df8dd48b7c89067.jpg)](https://t.me/Dark_bot_chit_chat)
+[![Dil-se-Dosti](https://telegra.ph/file/5c38e2df8dd48b7c89067.jpg)](https://t.me/XD-Deepak)
 
 
 <h1 align="center">
-  <b>🇳🇪Dil-se-Dosti🇳🇪</b>
+  <b>🇳🇪 Official-Dil-se-Dosti-music-bot🇳🇪</b>
 </h1>
 
 
-A Telegram Bot to Play Audio in Voice Chats With Youtube and Deezer support.
-Supports Live streaming from youtube
-
-```
-Please fork this repository don't import code
-Made with Python3
-(C) @XD-Deepak
-Copyright permission under MIT License
-License -> https://github.com/subinps/MusicPlayer/blob/master/LICENSE
 
 ```
 <details><summary> <h1 align="center">⚡DEPLOY⚡</h1> </summary>
 ## Deploy to Heroku
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/XD-Deepak/OFFICIAL-DIL-SE-DOSTI-MUSIC-BOT)
+<details>
+
+
+<details><summary> <h1 align="center">license</h1> </summary>
+
+(C) @XD-Deepak
+Copyright permission under MIT License
+License -> https://github.com/XD-Deepak/OFFICIAL-DIL-SE-DOSTI-MUSIC-BOT/blob/master/LICENSE
 
 NOTE: Make sure you have started a VoiceChat in your Group before deploying.
+<details>
+<details><summary> <h1 align="center">VARS</h1> </summary>
 
-
-# Vars:
 1. `API_ID` : Get From my.telegram.org
 2. `API_HASH` : Get from my.telegram.org
 3. `BOT_TOKEN` : @Botfather
@@ -46,8 +45,9 @@ NOTE: Make sure you have started a VoiceChat in your Group before deploying.
 - To play a song use /play as a reply to audio file or a youtube link.
 - Use /play <song name> to play song from youtube and /dplay <song name> to play from Deezer.
 - Use /help to know about other commands.
+<details>
 
-**Features**
+<details><summary> <h1 align="center">FEATURES</h1> </summary>
 
 - Playlist, queue
 - Supports Live streaming from youtube
@@ -57,3 +57,4 @@ NOTE: Make sure you have started a VoiceChat in your Group before deploying.
 - Automatically downloads audio for the first two tracks in the playlist to ensure smooth playing
 - Automatic restart even if heroku restarts.
 
+<details>
