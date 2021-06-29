@@ -14,7 +14,7 @@
 ## Deploy to Heroku
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/XD-Deepak/OFFICIAL-DIL-SE-DOSTI-MUSIC-BOT)
-<details>
+
 
 
 <details><summary> <h1 align="center">license</h1> </summary>
@@ -24,7 +24,7 @@ Copyright permission under MIT License
 License -> https://github.com/XD-Deepak/OFFICIAL-DIL-SE-DOSTI-MUSIC-BOT/blob/master/LICENSE
 
 NOTE: Make sure you have started a VoiceChat in your Group before deploying.
-<details>
+
 <details><summary> <h1 align="center">VARS</h1> </summary>
 
 1. `API_ID` : Get From my.telegram.org
@@ -45,7 +45,7 @@ NOTE: Make sure you have started a VoiceChat in your Group before deploying.
 - To play a song use /play as a reply to audio file or a youtube link.
 - Use /play <song name> to play song from youtube and /dplay <song name> to play from Deezer.
 - Use /help to know about other commands.
-<details>
+
 
 <details><summary> <h1 align="center">FEATURES</h1> </summary>
 
@@ -57,4 +57,4 @@ NOTE: Make sure you have started a VoiceChat in your Group before deploying.
 - Automatically downloads audio for the first two tracks in the playlist to ensure smooth playing
 - Automatic restart even if heroku restarts.
 
-<details>
+
