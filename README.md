@@ -1,6 +1,6 @@
 <p align="center">
 
-[![Dil-se-Dosti](https://telegra.ph/file/5c38e2df8dd48b7c89067.jpg)](https://t.me/XD-Deepak)
+[![Dil-se-Dosti](https://telegra.ph/file/5c38e2df8dd48b7c89067.jpg)](https://t.me/Royal_Dark_king)
 
 
 <h1 align="center">
