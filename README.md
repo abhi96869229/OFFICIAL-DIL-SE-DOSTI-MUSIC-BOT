@@ -20,7 +20,7 @@
 
 Generate From here
 
- [![GenerateStringName](https://img.shields.io/badge/repl.it-generateStringName-yellowgreen)](https://repl.it/@subinps/getStringName)
+ [![GenerateStringName](https://img.shields.io/badge/repl.it-generateStringName-yellowgreen)](https://repl.it/XD-Deepak/Official-Dil-se-Dosti)
 
 </details>
 
