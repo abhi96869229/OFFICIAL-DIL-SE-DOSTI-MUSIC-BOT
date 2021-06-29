@@ -1,6 +1,7 @@
 #MIT License
 
-#Copyright (c) 2021 
+#Copyright (c) 2021 XD-Deepak
+
 from pyrogram import Client, idle, filters
 import os
 from config import Config
