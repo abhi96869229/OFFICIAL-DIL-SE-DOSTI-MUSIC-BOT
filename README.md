@@ -1,6 +1,6 @@
 <p align="center">
 
-[![Dil-se-Dosti](https://telegra.ph/file/5c38e2df8dd48b7c89067.jpg)](https://t.me/DARK_ROYAL_KING)
+[![Dil-se-Dosti](https://telegra.ph/file/5c38e2df8dd48b7c89067.jpg)](https://t.me/Tg_Error_404)
 
 
 <h1 align="center">
