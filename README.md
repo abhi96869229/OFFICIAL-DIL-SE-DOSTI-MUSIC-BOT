@@ -8,9 +8,8 @@
 </h1>
 
 
-
-```
 <details><summary> <h1 align="center">⚡DEPLOY⚡</h1> </summary>
+
 ## Deploy to Heroku
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/XD-Deepak/OFFICIAL-DIL-SE-DOSTI-MUSIC-BOT)
