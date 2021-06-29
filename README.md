@@ -1,4 +1,12 @@
-# OFFICIAL-DIL-SE-DOSTI-MUSIC-BOT.
+<p align="center">
+
+[![Dil-se-Dosti](https://telegra.ph/file/5c38e2df8dd48b7c89067.jpg)](https://t.me/Dark_bot_chit_chat)
+
+
+<h1 align="center">
+  <b>🇳🇪Dil-se-Dosti🇳🇪</b>
+</h1>
+
 
 A Telegram Bot to Play Audio in Voice Chats With Youtube and Deezer support.
 Supports Live streaming from youtube
@@ -11,7 +19,7 @@ Copyright permission under MIT License
 License -> https://github.com/subinps/MusicPlayer/blob/master/LICENSE
 
 ```
-
+<details><summary> <h1 align="center">⚡DEPLOY⚡</h1> </summary>
 ## Deploy to Heroku
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/XD-Deepak/OFFICIAL-DIL-SE-DOSTI-MUSIC-BOT)
