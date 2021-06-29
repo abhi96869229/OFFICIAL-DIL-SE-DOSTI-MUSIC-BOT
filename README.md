@@ -12,7 +12,7 @@
 
 ## Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/XD-Deepak/OFFICIAL-DIL-SE-DOSTI)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Pushpendra6367/OFFICIAL-DIL-SE-DOSTI)
 
 </details>
 
