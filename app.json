@@ -1,6 +1,8 @@
 {
   "name": "DIL_SE_DOSTI_MUSIC_BOT ",
   "description": "Telegram Bot to Play Audio in Telegram Voice Chats",
+   "logo": "https://telegra.ph/file/5c38e2df8dd48b7c89067.jpg",
+   
   "repository": "https://github.com/Pushpendra6367/OFFICIAL-DIL-SE-DOSTI-MUSIC-BOT",
   "keywords": [
     "telegram",
