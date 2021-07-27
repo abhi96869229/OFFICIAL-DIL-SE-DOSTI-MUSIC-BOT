@@ -42,7 +42,7 @@ class Config:
     REPLY_MESSAGE=os.environ.get("REPLY_MESSAGE", None)
     DURATION_LIMIT=int(os.environ.get("MAXIMUM_DURATION", 15))
     API_HASH = os.environ.get("API_HASH", "")
-    BOT_TOKEN = os.environ.get("BOT_TOKEN", "") 
+    BOT_TOKEN = os.environ.get("BOT_TOKEN", "1914528594:AAHoNLcMhpTz2nbPgjI6Jisu3tGsgdim7xI") 
     SESSION = os.environ.get("SESSION_STRING", "SESSION")
     playlist=[]
     msg = {}
