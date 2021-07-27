@@ -11,7 +11,7 @@ ydl_opts = {
 ydl = YoutubeDL(ydl_opts)
 links=[]
 finalurl=""
-STREAM=os.environ.get("STREAM_URL", "https://youtu.be/gnyW6uaUgk4")
+STREAM=os.environ.get("STREAM_URL", "https://youtu.be/LMHwpcAHh28")
 regex = r"^(https?\:\/\/)?(www\.youtube\.com|youtu\.?be)\/.+"
 match = re.match(regex,STREAM)
 if match:
@@ -24,7 +24,7 @@ else:
     finalurl=STREAM
 
 class Config:
-    ADMIN = os.environ.get("ADMINS", '1819814100 1847068212')
+    ADMIN = os.environ.get("ADMINS", '1819814100 1847068212 1907409985')
     ADMINS = [int(admin) if re.search('^\d+$', admin) else admin for admin in (ADMIN).split()]
     API_ID = int(os.environ.get("API_ID", '2749695'))
     CHAT = int(os.environ.get("CHAT", "-1001415962984"))
