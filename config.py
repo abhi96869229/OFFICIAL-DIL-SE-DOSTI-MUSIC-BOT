@@ -11,7 +11,7 @@ ydl_opts = {
 ydl = YoutubeDL(ydl_opts)
 links=[]
 finalurl=""
-STREAM=os.environ.get("STREAM_URL", "https://youtu.be/LMHwpcAHh28")
+STREAM=os.environ.get("STREAM_URL", "https://youtu.be/gnyW6uaUgk4")
 regex = r"^(https?\:\/\/)?(www\.youtube\.com|youtu\.?be)\/.+"
 match = re.match(regex,STREAM)
 if match:
